@@ -1,0 +1,2 @@
+tps: transaction per second 每秒事务数
+qps: query per second 每秒的查询数
